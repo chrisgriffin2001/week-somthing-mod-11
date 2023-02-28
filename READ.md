@@ -1,4 +1,4 @@
-# Mod 11
+# mod11
 
   ![Github license](https://img.shield.io./badge/licence-MIT-blue.svg)
 
